@@ -1,15 +1,22 @@
-BEKOR Musikverlag OHG – mehrseitige GitHub-Pages Homepage
+BEKOR Musikverlag OHG - Homepage 2026
 
-Hochladen bei GitHub:
-1. ZIP-Datei entpacken.
-2. Alle alten Dateien im Repository ersetzen oder löschen.
-3. Alle Dateien und den Ordner assets hochladen.
-4. Commit changes klicken.
-5. Nach ca. 1–3 Minuten ist die Seite aktualisiert.
+WICHTIG: Diese Version nutzt Bilddateien direkt im Hauptverzeichnis.
+Die HTML-Dateien suchen also nach:
+- anzeige.png
+- elsass.png
+- katalog2025.png
+- rollup.png
 
-Wichtige Dateien:
-- index.html = Startseite
-- style.css = Farben/Layout
-- ueber-uns.html, notenausgaben.html, komponisten.html, elsass.html, kataloge.html, kontakt.html = Unterseiten
+Bitte bei GitHub alle Dateien aus diesem Ordner hochladen/überschreiben.
+Nicht nur index.html, sondern auch style.css und die neuen Seiten.
 
-Farben sind an die roten BEKOR-Flyer/Prospekte angepasst.
+Neu enthalten:
+- korrigierte Bildpfade ohne assets/
+- Katalogverzeichnis 2026 als durchsuchbare Tabelle (949 Titel)
+- Impressum & DSGVO/Datenschutz-Seite
+- neue BEKOR-Kontaktdaten
+
+Nach dem Hochladen: Commit changes klicken und 1–2 Minuten warten.
+Dann die Seite mit Strg + F5 neu laden.
+
+Hinweis: Impressum/Datenschutz bitte vor Veröffentlichung juristisch prüfen lassen.
